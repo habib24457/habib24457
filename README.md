@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...Web development  
+- 🔭 I’m currently working on ...Web development(React.js project with backend support) 
 - 🌱 I’m currently learning ...MongoDB
 - 👯 I’m looking to collaborate on ...react js
 - 🤔 I’m looking for help with ...going out

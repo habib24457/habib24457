@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...anything related to web dev
 - 📫 How to reach me: ...habiburehman390@gmail.com
 - 😄 Pronouns: ...Dude
-- ⚡ Fun fact: ...I can cook. 
+- ⚡ Fun fact: ...I make sketch comedy. 

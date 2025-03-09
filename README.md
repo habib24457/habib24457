@@ -1,6 +1,6 @@
 ### Hi there 👋
-I am Habibur Rahman. A curious web developer.  
-->My site: https://habibur-rahman-23.netlify.app/
+I am Habibur Rahman. A software developer.  
+->Portfolio: https://habibur-rahman-23.netlify.app/
 
 Here are some ideas to get you started:
 
